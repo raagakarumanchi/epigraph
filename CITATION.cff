@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Karumanchi"
+    given-names: "Raaga"
+    orcid: "https://orcid.org/YOUR-ORCID-ID"
+title: "EpitopeGraph: A graph-based toolkit for conformational B-cell epitope prediction"
+version: 0.1.0
+doi: "10.5281/zenodo.YOUR-DOI"
+date-released: 2024-03-20
+url: "https://github.com/yourusername/epitopegraph"
+repository-code: "https://github.com/yourusername/epitopegraph"
+keywords:
+  - "bioinformatics"
+  - "immunology"
+  - "machine learning"
+  - "graph neural networks"
+  - "epitope prediction"
+  - "protein structure"
+  - "AlphaFold"
+license: MIT
+abstract: "EpitopeGraph is an open-source Python toolkit that leverages graph neural networks and AlphaFold-predicted structures to predict conformational B-cell epitopes. It addresses the limitations of current epitope prediction methods by integrating high-quality predicted structures, using graph neural networks to capture 3D structural relationships, and providing explainable predictions with interactive visualizations." 
